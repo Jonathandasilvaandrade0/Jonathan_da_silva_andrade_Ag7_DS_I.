@@ -1,6 +1,6 @@
 # Programa de Pesquisa de Opinião - TudoWeb
 
-TOTAL_ENTREVISTADOS = 10
+TOTAL_ENTREVISTADOS = 50
 
 qtd_excelente = 0
 qtd_bom = 0
